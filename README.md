@@ -22,6 +22,7 @@ A simple Python command-line To-Do List application that helps users manage dail
 
 ```bash
 python to-do-list.py
-
-## Author
+```
+# Author
 Muneeb
+
